@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "country": "GB",
+  "updated": "2026-10-10",
+  "mosques": [
+    {
+      "id": "gb-london-east-london-mosque",
+      "name": "East London Mosque",
+      "city": "London",
+      "country": "GB",
+      "lat": 51.5175,
+      "lng": -0.0652,
+      "years": { "2026": "2026-10-10" },
+      "source": "https://www.eastlondonmosque.org.uk/prayer-times",
+      "note": "Test entry: 2026 start times from the mosque's website, 1 Jan - 12 Jul only."
+    }
+  ]
+}
